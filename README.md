@@ -10,7 +10,13 @@ I turn messy data into clear answers, using Python, SQL and causal inference to 
 
 ## 📚 Projects
 
-Explore my data analysis projects in my [portfolio](https://github.com/ChetnaLourembam/Portfolio).
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+
+| Project Link | Tools | Project Description |
+|---|---|---|
+| [🧭 Ukrainian Refugee Labor Market Integration](https://github.com/ChetnaLourembam/your-repo-name) | Python, R, Stata | Analysed employment outcomes of Ukrainian refugees using a difference-in-differences design. Add one sentence on the data and one on your main finding. |
+| [⚖️ Gender Gap in Political Orientation](https://github.com/ChetnaLourembam/your-repo-name) | R / Python | Analysed the gender gap in political orientation across countries using EVS/WVS survey data. Add one sentence on your main finding. |
+| [📊 Project 3](https://github.com/ChetnaLourembam/your-repo-name) | Tools | What you built, how, and the result. |
 
 
 
