@@ -1,4 +1,4 @@
-![Banner]("C:\Users\loure\Downloads\White & Gray Simple Fashion Designer LinkedIn Banner (1).png")
+![Banner]("banner.png")
 
 
 # 👋 Hi, I'm Chetna
