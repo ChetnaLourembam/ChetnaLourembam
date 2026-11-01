@@ -10,9 +10,9 @@ I turn messy data into clear answers, using Python, SQL and causal inference to 
 
 ## 📚 Projects
 
-## 📚 Projects
-
 Explore my data analysis projects in my [portfolio](https://github.com/ChetnaLourembam/Portfolio).
+
+
 
 ## 🛠️ Tools
 
