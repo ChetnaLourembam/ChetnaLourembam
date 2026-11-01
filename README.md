@@ -19,14 +19,16 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [Attrition and workforce analytics](https://github.com/ChetnaLourembam/your-repo-name) | Tools | What you built, how, and the result. |
 
 
+## 🛠️ Skills
 
-## 🛠️ Tools
-
-* **Languages:** Python, R, SQL
-* **Methods:** DiD, IV, RDD, DML, causal forests
-* **Statistics software:** Stata
-* **Visualization:** Tableau, Power BI, Matplotlib / ggplot2
-* **Other:** Git, Excel
+* **Programming & Databases:** Python, R, SQL
+* **Data Analysis:** Data cleaning, exploratory analysis, statistical modelling, regression analysis, KPI analysis
+* **Experimentation & Causal Analysis:** A/B testing, impact evaluation (DiD, IV, RDD), propensity score matching, causal machine learning (DML, causal forests)
+* **Machine Learning:** Classification, prediction models (scikit-learn)
+* **Visualization & Reporting:** Power BI, Tableau, Excel, Matplotlib / ggplot2
+* **Data Sources:** Survey data, administrative and panel data, large-scale datasets
+* **Tools & Workflow:** Stata, Git / GitHub, Jupyter
+* **Languages:** English, German (add your levels)
 
 ## 👋🏻 Connect with Me
 
