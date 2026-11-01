@@ -10,11 +10,9 @@ I turn messy data into clear answers, using Python, SQL and causal inference to 
 
 ## 📚 Projects
 
-Explore my data analysis projects below, or browse the pinned repos above.
+## 📚 Projects
 
-- [Ukrainian refugee labor market integration](link-to-repo): what drives employment outcomes, using DiD
-- [Gender gap in political orientation](link-to-repo): EVS/WVS survey data analysis
-- [Project 3 name](link-to-repo): one line on what it shows
+Explore my data analysis projects in my [portfolio](https://github.com/ChetnaLourembam/Portfolio).
 
 ## 🛠️ Tools
 
