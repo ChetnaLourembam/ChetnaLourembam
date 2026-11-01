@@ -1,3 +1,6 @@
+![Banner]("C:\Users\loure\Downloads\White & Gray Simple Fashion Designer LinkedIn Banner (1).png")
+
+
 # 👋 Hi, I'm Chetna
 
 **Economics Master's student** based in Kiel, Germany 📍
