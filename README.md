@@ -14,9 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Project Description |
 |---|---|---|
-| [Sales and delivery performance](https://github.com/ChetnaLourembam/your-repo-name) | Python, R, Stata | Analysed employment outcomes of Ukrainian refugees using a difference-in-differences design. Add one sentence on the data and one on your main finding. |
-| [Credit risk and portfolio profitability](https://github.com/ChetnaLourembam/your-repo-name) | R / Python | Analysed the gender gap in political orientation across countries using EVS/WVS survey data. Add one sentence on your main finding. |
-| [Attrition and workforce analytics](https://github.com/ChetnaLourembam/your-repo-name) | Tools | What you built, how, and the result. |
+| [Sales and delivery performance](https://github.com/ChetnaLourembam/your-repo-name) | Python, R, Stata | Analyse |
 
 
 ## 🛠️ Skills
